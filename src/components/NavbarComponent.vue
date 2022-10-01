@@ -1,0 +1,11 @@
+<template>
+<div>
+    <nav>
+        <div>Inicio</div>
+        <div>HTML</div>
+        <div>CSS</div>
+        <div>Flexbox</div>
+        <div>JavaScript</div>
+    </nav>   
+</div>
+</template>
